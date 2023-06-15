@@ -1,0 +1,22 @@
+[
+  {
+    "Username": "User1",
+    "Age": "22",
+    "Score": "98"
+  },
+  {
+    "Username": "User2",
+    "Age": "23",
+    "Score": "95"
+  },
+  {
+    "Username": "User3",
+    "Age": "21",
+    "Score": "99"
+  },
+  {
+    "Username": "User4",
+    "Age": "24",
+    "Score": "92"
+  }
+]
